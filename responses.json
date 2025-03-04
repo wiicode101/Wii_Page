@@ -1,0 +1,22 @@
+{
+    "salam": {
+        "keywords": ["hello", "hai", "halo"],
+        "text": "Halo, apa yang bisa saya bantu?",
+        "audio": "audio/halo.wav"
+    },
+    "siapa kamu": {
+        "keywords": ["siapa namamu", "apa sebenarnya kamu", "namamu","kamu adalah"],
+        "text": "Saya wii, chatbot yang dibuat berdasarkan suara pemilik saya",
+        "audio": "audio/chatbot.wav"
+    },
+    "pemilik": {
+        "keywords": ["siapa pemilikmu", "siapa mastermu", "pemilikmu","dia adalah"],
+        "text": "pemilik saya bernama arif, anda dapat mengenalnya lebih jelas dengan melihat bagian Tentang Saya ",
+        "audio": "audio/master.wav"
+    },
+    "penutup": {
+        "keywords": ["goodbye", "bye", "sampai jumpa","selamat tinggal"],
+        "text": "Selamat tinggal! Semoga harimu menyenangkan!",
+        "audio": "audio/goodbye.wav"
+    }
+}
